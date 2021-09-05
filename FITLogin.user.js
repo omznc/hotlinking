@@ -1,3 +1,4 @@
+// INSTALL TAMPERMONKEY BEFORE USING THIS EXTENSION, OTHERWISE YOU'LL JUST SEE THIS LMAO
 // ==UserScript==
 // @name         FITLogin
 // @namespace    *://*.fit.ba/student/login.aspx*
